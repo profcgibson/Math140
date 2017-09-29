@@ -17,4 +17,4 @@ Tutorials are interactive web documents that instructors can use as in-class act
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [Syllabus](https://profcgibson.github.io/Math140/Math_140_Syllabus_Part1_Fall2017_Gibson.docx)
 6. [Cereal Data](http://www.lock5stat.com/datasets/Cereal.csv)
-
+7. [Car Depreciation Data](http://www.lock5stat.com/datasets/CarDepreciation.csv)
