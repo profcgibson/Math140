@@ -1,6 +1,7 @@
 # StatPREP Course Materials
 
 Welcome to additional resources, including StatPREP activities, for Prof. Gibson's Math 140 course.  
+Below is an ariel view of the Canyon Country Campus.
 
 ![CCC Campus](https://www.canyons.edu/Offices/PIO/PublishingImages/Aerials/CCC_Aerial_7817_030615_1800x1200_300.jpg)
 
