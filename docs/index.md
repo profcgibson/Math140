@@ -1,6 +1,6 @@
 # StatPREP Course Materials
 
-Welcome to Math 140.  
+Welcome to additional resources for Prof. Gibson's Math 140 course. 
 
 ## Welcome to StatPREP. 
 
