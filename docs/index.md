@@ -5,7 +5,7 @@ Welcome to additional resources for Prof. Gibson's Math 140 course.
 ## Welcome to StatPREP. 
 
 This page contains links and other student-facing information for StatPREP activities.
-
+![CCC Campus](https://www.canyons.edu/Offices/PIO/PublishingImages/Aerials/CCC_Aerial_7817_030615_1800x1200_300.jpg)
 
 ## Tutorials
 
