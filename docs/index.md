@@ -1,10 +1,7 @@
 # StatPREP Course Materials
 
-Welcome to additional resources for Prof. Gibson's Math 140 course. 
+Welcome to additional resources, including StatPREP activities, for Prof. Gibson's Math 140 course.  
 
-## Welcome to StatPREP. 
-
-This page contains links and other student-facing information for StatPREP activities.
 ![CCC Campus](https://www.canyons.edu/Offices/PIO/PublishingImages/Aerials/CCC_Aerial_7817_030615_1800x1200_300.jpg)
 
 ## Tutorials
@@ -15,6 +12,7 @@ Tutorials are interactive web documents that instructors can use as in-class act
 2. [Experiment with paper planes](https://dtkaplan.shinyapps.io/Paper_planes/)
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
-5. [Syllabus](https://profcgibson.github.io/Math140/Math_140_Syllabus_Part1_Fall2017_Gibson.docx)
-6. [Cereal Data](http://www.lock5stat.com/datasets/Cereal.csv)
-7. [Car Depreciation Data](http://www.lock5stat.com/datasets/CarDepreciation.csv)
+
+## Data
+5. [Cereal Data](http://www.lock5stat.com/datasets/Cereal.csv)
+6. [Car Depreciation Data](http://www.lock5stat.com/datasets/CarDepreciation.csv)
